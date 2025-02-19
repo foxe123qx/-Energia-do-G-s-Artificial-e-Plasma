@@ -2,7 +2,7 @@
 
 📌 **Autor:** [Sebastiao nogueira]  
 📅 **Data:** [18/02/2025]  
-🔗 **Licença:** [Escolha a licença, ex: MIT, GPLv3]  
+
 
 ## 🌟 Introdução  
 A busca por novas formas de energia é um dos desafios mais importantes da atualidade. Os combustíveis fósseis são limitados e poluentes, enquanto alternativas como baterias e energia solar ainda apresentam desafios de eficiência e armazenamento.  
